@@ -17,6 +17,8 @@ public class Topic {
     private String name;
     private String description;
 
+    private double init;
+
 
     public Topic(){
 

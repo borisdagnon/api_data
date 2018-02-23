@@ -14,6 +14,12 @@ target/
 *.iws
 *.iml
 *.ipr
+*.jar
+*.zip
+*.tar.gz
+*.war
+*.rar
+*.ear
 
 ### NetBeans ###
 nbproject/private/
